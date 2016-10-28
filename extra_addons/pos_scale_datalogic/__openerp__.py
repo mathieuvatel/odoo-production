@@ -29,7 +29,7 @@
     'license': 'AGPL-3',
     'depends': ['point_of_sale'],
     'data': [
-        'views/pos_payment_terminal.xml',
+        'views/pos_scale_datalogic.xml',
         'static/src/xml/templates.xml',
         ],
     'demo': [],
